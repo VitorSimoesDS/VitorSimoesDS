@@ -1,1 +1,5 @@
-<h2 aling="center">Sobre mim</h2>
+h2 {
+    text-align: center;
+}
+
+<h2>Sobre mim</h2>
