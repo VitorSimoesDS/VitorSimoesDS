@@ -1,5 +1,4 @@
-h2 {
-    text-align: center;
-}
+# Meu Portifólio
+## Sobre mim:
 
-<h2>Sobre mim</h2>
+Sou um desenvolvedor de software sempre aprender algo novo. 
